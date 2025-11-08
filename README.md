@@ -2,11 +2,10 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
 ![Open Source](https://img.shields.io/badge/Open%20Source-💻-brightgreen)
 ![Made with ❤️ by Aniket](https://img.shields.io/badge/Made%20with-❤️-red)
 
-> 🖩 A simple **Basic Calculator** clone built using HTML, CSS, and JavaScript.  
+> 🖩 A simple **Basic Calculator** clone built using HTML, CSS.  
 > Perform standard arithmetic operations with a clean and interactive interface.
 
 ---
@@ -18,7 +17,7 @@ This project is a **calculator clone** that allows users to:
 - 🧮 Input numbers and operators dynamically  
 - 🖱️ Clear entries and reset calculations  
 
-It’s a beginner-friendly project to learn **JavaScript event handling**, **DOM manipulation**, and **UI design**.
+It’s a beginner-friendly project to learn + effective **UI design**.
 
 ---
 
@@ -28,7 +27,6 @@ It’s a beginner-friendly project to learn **JavaScript event handling**, **DOM
 |------|-------------|
 | 🧱 HTML5 | Layout and structure of calculator buttons |
 | 🎨 CSS3 | Styling, positioning, and responsive design |
-| ⚙️ JavaScript | Calculator logic and interactive button handling |
 
 ---
 
